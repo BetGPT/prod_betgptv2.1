@@ -1,0 +1,5 @@
+{
+    "success": false,
+    "status": "INVALID_MARKET_COMBO",
+    "msg": "Invalid parameter combination. The given mkt cannot be used with this sport."
+}
